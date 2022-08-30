@@ -10,16 +10,15 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya Gupta&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
 
 ## 👨🏻‍💻 Coding Profiles
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)]((https://www.hackerrank.com/adityagupta0123))
-<!-- <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100"> -->
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityagupta0123)
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange)]((https://leetcode.com/adityagupta0123/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange)](https://leetcode.com/adityagupta0123/)
 <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
 
 ## Connect With Me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradulv26gmail.com)](mailto:aditya.gupta3182003@gmail.com)
-<a href="https://(https://www.instagram.com/_its.aditya____/)" target="blank"><img align="left" src="https://user-images.githubusercontent.com/80679669/152579378-3d4a428f-8ac6-4921-bd79-15692646420c.png" alt="_its.aditya____" width="40" /></a>
+<a href="https://https://www.instagram.com/_its.aditya____/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/80679669/152579378-3d4a428f-8ac6-4921-bd79-15692646420c.png" alt="_its.aditya____" width="40" /></a>
 
 ## 📈 Stats
 <table>
@@ -35,7 +34,7 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 </td>
 </tr>
 </table>
-<!-- <h2 align='center'><i><a href="https://github.com/JitendraKumar1092/github-readme-activity-graph">Jitendra's Contribution Graph 📈</i></h2> -->
+<h2 align='center'><i><a href="https://github.com/adityagupta0123/github-readme-activity-graph">Jitendra's Contribution Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/adityagupta0123/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=adityagupta0123&theme=react-dark&area=true&hide_border=true" width="100%">
