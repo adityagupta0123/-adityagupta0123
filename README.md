@@ -15,10 +15,58 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange)](https://leetcode.com/adityagupta0123/)
 <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
 
-## Connect With Me:
+
+<h1>Technical Skills 🛠</h1>
+
+<p align="center"> 
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <img alt="NextJs" src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=black" />
+    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/aditya-gupta-68a741220/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://github.com/adityagupta0123" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:aditya.gupta3182003@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+ 
+<a href="https://stackoverflow.com/" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_its.aditya____/" target="blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<!-- ## Connect With Me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradulv26gmail.com)](mailto:aditya.gupta3182003@gmail.com)
-<a href="https://www.instagram.com/_its.aditya____/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/80679669/152579378-3d4a428f-8ac6-4921-bd79-15692646420c.png" alt="_its.aditya____" width="40" /></a>
+<a href="https://www.instagram.com/_its.aditya____/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/80679669/152579378-3d4a428f-8ac6-4921-bd79-15692646420c.png" alt="_its.aditya____" width="40" /></a> -->
 
 ## 📈 Stats
 <table>
@@ -34,6 +82,11 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 </td>
 </tr>
 </table>
+
+<!----------------------------------{ contribution stats }--------------------------------->
+
+<!-- [snake]: https://github.com/rajput-hemant/rajput-hemant/blob/output/snake.svg -->
+[graph]: https://activity-graph.herokuapp.com/graph?username=adityagupta0123&theme=react-dark&hide_border=false&area=true
 
 <p align="center">
 <a href="https://github.com/adityagupta0123/github-readme-activity-graph">
