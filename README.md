@@ -25,8 +25,9 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
    <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt=leetcode style="margin-bottom: 5px;" />
   </a> 
   <a href="https://auth.geeksforgeeks.org/user/adityagupta3182003/practice/" target="_blank">
-   <img src="https://img.shields.io/badge/GFG-lightgreen?style=for-the-badge&logo=gfg&logoColor=4EA94B" alt=GFG style="margin-bottom: 5px;" />
+   <img src="https://img.shields.io/badge/GFG-lightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=4EA94B" alt=GFG style="margin-bottom: 5px;" />
   </a>  
+   <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
 <div>
 
 
