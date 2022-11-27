@@ -10,10 +10,15 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
 
 ## 👨🏻‍💻 Coding Profiles
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityagupta0123)
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange)](https://leetcode.com/adityagupta0123/)
-<img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
+<div align="center">
+  <a>
+    [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityagupta0123)
+  </a>
+  <a>
+    [![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange)](https://leetcode.com/adityagupta0123/)
+    <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
+  </a>
+<div>
 
 
 <h1>Technical Skills 🛠</h1>
@@ -30,12 +35,10 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      <img alt="NextJs" src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=black" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
@@ -51,7 +54,7 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 </a>
   
 <a href="mailto:aditya.gupta3182003@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
  
 <a href="https://stackoverflow.com/" target="_blank">
@@ -62,11 +65,6 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
-
-<!-- ## Connect With Me:
-
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradulv26gmail.com)](mailto:aditya.gupta3182003@gmail.com)
-<a href="https://www.instagram.com/_its.aditya____/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/80679669/152579378-3d4a428f-8ac6-4921-bd79-15692646420c.png" alt="_its.aditya____" width="40" /></a> -->
 
 ## 📈 Stats
 <table>
