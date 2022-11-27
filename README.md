@@ -11,13 +11,22 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 
 ## 👨🏻‍💻 Coding Profiles
 <div align="center">
-  <a>
+<!--   <a>
     [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityagupta0123)
   </a>
   <a>
     [![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange)](https://leetcode.com/adityagupta0123/)
     <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
+  </a> -->
+  <a href="https://www.hackerrank.com/adityagupta0123" target="_blank">
+   <img src=https://img.shields.io/badge/hackerrank-%231E77B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
   </a>
+  <a href="https://leetcode.com/adityagupta0123/" target="_blank">
+   <img src=https://img.shields.io/badge/leetcode-%231E77B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+  </a> 
+  <a href="https://auth.geeksforgeeks.org/user/adityagupta3182003/practice/" target="_blank">
+   <img src=https://img.shields.io/badge/gfg-%231E77B5.svg?&style=for-the-badge&logo=gfg&logoColor=white alt=GFG style="margin-bottom: 5px;" />
+  </a>  
 <div>
 
 
