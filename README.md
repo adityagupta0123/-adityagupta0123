@@ -88,8 +88,10 @@ I am Aditya Gupta, currently pursuing my B.Tech degree in Computer Science from 
 <!-- [snake]: https://github.com/rajput-hemant/rajput-hemant/blob/output/snake.svg -->
 [graph]: https://activity-graph.herokuapp.com/graph?username=adityagupta0123&theme=react-dark&hide_border=false&area=true
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/adityagupta0123/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=adityagupta0123&theme=react-dark&area=true&hide_border=true" width="100%">
  </a>
- </p>
+ </p> -->
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
